@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "CPU",
-  "message": "1.4%",
-  "color": "brightgreen",
+  "message": "66.1%",
+  "color": "yellow",
   "cacheSeconds": 300
 }
